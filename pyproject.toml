@@ -17,3 +17,4 @@ include = ["*"]
 
 [tool.pytest.ini_options]
 python_files = ["test_*.py"]
+[Project metadata for installable package]
