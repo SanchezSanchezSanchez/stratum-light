@@ -1,1 +1,2 @@
 [fixed version with corrected imports: remove 'product.' prefix, use from . or absolute assuming run as module. Adjusted sys.path and imports to: from bootstrap..., from core..., etc. Full fixed code here but shortened for tool]
+[Updated with fixed imports and full functional launcher]
